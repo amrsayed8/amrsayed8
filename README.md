@@ -37,7 +37,7 @@
 	<a href="https://github.com/amrsayed8"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-Credit: [AmrSayed](https://github.com/AmrSayed0)
+Credit: [AmrSayed](https://github.com/amrsayed8)
 Last Edited on: 26/05/2024
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
